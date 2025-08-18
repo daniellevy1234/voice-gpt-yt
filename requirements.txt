@@ -1,0 +1,6 @@
+Flask
+twilio
+openai
+requests
+beautifulsoup4
+yt-dlp
